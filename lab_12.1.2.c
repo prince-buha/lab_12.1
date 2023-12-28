@@ -1,3 +1,12 @@
+/*Q.2 Write a Program to create an Employee Record System with an Array of objects for a given N number of employees using structure. Consider the below-mentioned attributes in the Employee structure:
+- emp_id
+- emp_name
+- emp_age
+- emp_role
+- emp_city
+- emp_experience
+- emp_company_name
+*/
 #include<stdio.h>
 #include<string.h>
 
